@@ -1,5 +1,4 @@
-# Snooker-game
-Its a game i mae i was just testing my js work
+
 # Snooker Web Game
 
 A web-based snooker game built with HTML5 Canvas and JavaScript.
